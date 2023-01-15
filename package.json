@@ -1,0 +1,26 @@
+{
+  "name": "patronesdedisenomvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ext js,ejs --ignore public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facuu18/patronesDeDisenoMVC.git"
+  },
+  "author": "FacuuOlave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facuu18/patronesDeDisenoMVC/issues"
+  },
+  "homepage": "https://github.com/Facuu18/patronesDeDisenoMVC#readme",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "livereload": "^0.9.3"
+  }
+}
